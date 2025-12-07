@@ -20,6 +20,10 @@ Key steps performed:
 
 The dataset was cleaned and prepared for accurate analysis and visualisation.
 
+### Dataset Source
+This analysis uses the publicly available **Customer Shopping Dataset** from Kaggle.  
+The dataset is not included in this repository to comply with dataset licensing and distribution guidelines.
+
 ---
 
 ## 📊 2. Exploratory Data Analysis (EDA)
