@@ -1,5 +1,5 @@
 # Customer Spending Insights  
-Python Analytics Project – Retail Customer Behaviour
+Retail Customer Behaviour Analysis & Business Intelligence Dashboard
 
 ## 📌 Project Overview
 This project analyses retail shopping behaviour using a real-world customer transactions dataset.  
@@ -21,8 +21,11 @@ Key steps performed:
 The dataset was cleaned and prepared for accurate analysis and visualisation.
 
 ### Dataset Source
-This analysis uses the publicly available **Customer Shopping Dataset** from Kaggle.  
-The dataset is not included in this repository to comply with dataset licensing and distribution guidelines.
+This project uses the publicly available Customer Shopping Dataset from Kaggle:
+
+[Customer Shopping Dataset – Kaggle](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset)
+
+The dataset is not included directly in this repository to respect dataset licensing and distribution guidelines.
 
 ---
 
