@@ -5,7 +5,7 @@ Python Analytics Project – Retail Customer Behaviour
 This project analyses retail shopping behaviour using a real-world customer transactions dataset.  
 The goal is to uncover insights about spending patterns, customer segments, and monthly sales trends to support data-driven marketing and operational decisions.
 
-This project was completed using Python (Pandas, Matplotlib, Seaborn) and later extended into Power BI (Phase 2).
+This project was completed using Python (Pandas, Matplotlib, Seaborn) and later extended into Power BI.
 
 ---
 
@@ -83,7 +83,7 @@ The dataset is not included in this repository to comply with dataset licensing 
 ## 🛠️ Tools & Technologies
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Jupyter Notebook**  
-- **Power BI (Phase 2)**  
+- **Power BI**  
 - **Git & GitHub**
 
 ---
@@ -124,19 +124,6 @@ This project was extended into an interactive Power BI dashboard to transform th
 
 #### Insights & Recommendations
 ![Insights & Recommendations](insights_recommendations.png)
-
-
-## 📁 Repository Structure
-
-customer-spending-insights/
-│
-├── notebooks/
-├── customer_shopping_bi.pbix
-├── executive_overview.png
-├── customer_insights.png
-├── product_performance.png
-├── insights_recommendations.png
-├── README.md
 
 ---
 
