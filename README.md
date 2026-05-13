@@ -87,10 +87,56 @@ The dataset is not included in this repository to comply with dataset licensing 
 - **Git & GitHub**
 
 ---
+## 📊 Phase 2 – Power BI Dashboard
+
+This project was extended into an interactive Power BI dashboard to transform the Python-based analysis into a business intelligence reporting solution.
+
+### Dashboard Features
+- Executive KPI overview
+- Customer spending analysis
+- Product performance insights
+- Revenue trend visualisation
+- Business recommendations dashboard
+- Interactive filtering and category analysis
+
+### Power BI Dashboard Pages
+1. Executive Overview
+2. Customer Insights
+3. Product Performance
+4. Insights & Recommendations
+
+### Key Business Insights
+- Clothing and Technology generated the highest overall revenue.
+- Customers aged 35–54 represented the highest spending segment.
+- Card-based transactions dominated customer payment behaviour.
+- Certain categories generated high average transaction values despite lower sales volume.
+
+### Dashboard Screenshots
+
+#### Executive Overview
+![Executive Overview](executive_overview.png)
+
+#### Customer Insights
+![Customer Insights](customer_insights.png)
+
+#### Product Performance
+![Product Performance](product_performance.png)
+
+#### Insights & Recommendations
+![Insights & Recommendations](insights_recommendations.png)
+
 
 ## 📁 Repository Structure
 
-
+customer-spending-insights/
+│
+├── notebooks/
+├── customer_shopping_bi.pbix
+├── executive_overview.png
+├── customer_insights.png
+├── product_performance.png
+├── insights_recommendations.png
+├── README.md
 
 ---
 
